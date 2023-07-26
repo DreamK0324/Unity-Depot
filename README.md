@@ -1,4 +1,4 @@
-:## Hug Me
+## Hug Me
 Link: https://dreamk.itch.io/hug-me
 
 Using Unity Engine and C# language to make a 2D game.  
